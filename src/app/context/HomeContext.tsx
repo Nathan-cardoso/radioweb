@@ -21,7 +21,7 @@ export default function HomeContextProvider({ children }: ProviderProps) {
   useEffect(() => {
 
     if (!audioRef.current) {
-      audioRef.current = new Audio('../../public/music/song01.mp3'); 
+      audioRef.current = new Audio('../../public/music/audio.mp3'); 
     }
 
   }, []);

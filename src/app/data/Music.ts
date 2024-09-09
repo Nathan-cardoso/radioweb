@@ -11,7 +11,7 @@ export const musics: Music[] = [
         name: "musica 01",
         author: "Teste",
         description: "musica 01",
-        urlAudio: "audios/audio1.mp3",
+        urlAudio: "audios/audio.mp3",
         image: "imagens/image01.jpg"
     }
 ]
