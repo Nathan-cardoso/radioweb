@@ -8,10 +8,12 @@ type Music = {
 
 export const musics: Music[] = [
     {
-        name: "musica 01",
-        author: "Teste",
-        description: "musica 01",
+        name: "Bulesque",
+        author: "National Sweetheart",
+        description: "Trilha sonora de cinema",
         urlAudio: "audios/audio.mp3",
-        image: "imagens/image01.jpg"
+        image: "images/imagem01.png"
     }
-]
+
+
+]   
