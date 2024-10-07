@@ -13,7 +13,14 @@ export const musics: Music[] = [
         description: "Trilha sonora de cinema",
         urlAudio: "audios/audio.mp3",
         image: "images/imagem01.png"
-    }
+    },
 
+    {
+        name: "Bulesque",
+        author: "Jeremy Korpas",
+        description: "Trilha sonora de cinema",
+        urlAudio: "audios/audio2.mp3",
+        image: "images/imagem01.png"
+    },
 
-]   
+];
